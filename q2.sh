@@ -1,3 +1,2 @@
-#!/bin/bash
-
-mkdir mydirectory
+#1/bin/bash
+ls *.txt
